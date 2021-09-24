@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background-color: #0099cc;
+    color: white;
+    position: top;
+    height: 40px;
+    padding: 15px;
+    margin-right:unset;
+}
+
+main {
+    margin-top: 30px;
+    margin-left: 40px;
+}
+
+footer {
+    background-color: #0099cc;
+    color: white;
+    margin-top: 10px;
+    padding: 25px;
+    
+}
+
+.list1 {
+    float: left;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 10px;
+}
+
+h1 {
+    float: left;
+    display: inline;
+    font-size: 16pt;
+    margin-right: 15px;
+    margin-left: 10px;
+    margin-top: 5px;
+
+}
+
+h2 {
+    font-size: 20pt;
+    color: #0099cc;
+}
+
+h3 {
+    font-weight: 400;
+}
+.list2 {
+    margin-left: 20px;
+}
+
+ul {
+    list-style-type: none;
+  }
+
+.membership {
+    background-color: white;
+    border: 2px solid orange;
+    border-radius: 15px;
+    width: 140px;
+    padding: 10px;
+    color: orange;
+    font-size: 11pt;
+}
+
+.instagram,
+.facebook,
+.youtube {
+    display: inline-block;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    box-shadow: 2px 4px rgb(214, 210, 210);
+    font-size: 14pt;
+    font-weight: 600;
+    border-radius: 15px;
+    border: 1px solid grey;
+    width: 120px;
+    height: 35px;
+    color: white;
+}
+
+.instagram {
+    background-color: #8080ff;
+    padding-top: 13px;
+    padding-left: 40px;
+}
+  
+.facebook {
+    background-color: #1a75ff;
+    margin-left: 20px;
+    padding-top: 13px;
+    padding-left: 40px;
+}
+  
+.youtube {
+    background-color: red;
+    margin-left: 20px;
+    padding-top: 13px;
+    padding-left: 40px;
+}
