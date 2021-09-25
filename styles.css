@@ -50,6 +50,11 @@ ul {
     list-style-type: none;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+}
+
 .membership {
     background-color: white;
     border: 2px solid orange;
@@ -89,7 +94,3 @@ ul {
     background-color: #ff0000;
     margin-left: 20px;
 }
- a {
-     color: white;
-     text-decoration: none;
- }
