@@ -89,7 +89,7 @@ ul {
     background-color: #ff0000;
     margin-left: 20px;
 }
-
-a {
-    text-decoration: none;
-}
+ a {
+     color: white;
+     text-decoration: none;
+ }
