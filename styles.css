@@ -8,14 +8,11 @@ header {
     background-color: #0099cc;
     color: white;
     position: top;
-    height: 40px;
-    padding: 15px;
-    margin-right:unset;
+    height: 70px;
 }
 
 main {
-    margin-top: 30px;
-    margin-left: 40px;
+    margin: 30px 0px 0px 40px;
 }
 
 footer {
@@ -23,24 +20,18 @@ footer {
     color: white;
     margin-top: 10px;
     padding: 25px;
-    
 }
 
 .list1 {
     float: left;
-    display: inline;
-    margin-left: 30px;
-    margin-top: 10px;
+    margin: 23px 0px 0px 30px;
+
 }
 
 h1 {
     float: left;
-    display: inline;
     font-size: 16pt;
-    margin-right: 15px;
-    margin-left: 10px;
-    margin-top: 5px;
-
+    margin: 20px 25px 0px 20px;
 }
 
 h2 {
@@ -51,13 +42,14 @@ h2 {
 h3 {
     font-weight: 400;
 }
+
 .list2 {
     margin-left: 20px;
 }
 
 ul {
     list-style-type: none;
-  }
+}
 
 .membership {
     background-color: white;
@@ -74,15 +66,15 @@ ul {
 .youtube {
     display: inline-block;
     margin-top: 10px;
-    margin-bottom: 10px;
-    box-shadow: 2px 4px rgb(214, 210, 210);
-    font-size: 14pt;
-    font-weight: 600;
-    border-radius: 15px;
-    border: 1px solid grey;
+    margin-bottom: 20px;
     width: 120px;
     height: 35px;
+    border-radius: 15px;
+    border: 1px solid grey;
+    box-shadow: 2px 4px rgb(214, 210, 210);
     color: white;
+    font-size: 14pt;
+    font-weight: 600;
 }
 
 .instagram {
@@ -92,14 +84,14 @@ ul {
 }
   
 .facebook {
-    background-color: #1a75ff;
+    background-color: #4267b2;
     margin-left: 20px;
     padding-top: 13px;
     padding-left: 40px;
 }
   
 .youtube {
-    background-color: red;
+    background-color: #ff0000;
     margin-left: 20px;
     padding-top: 13px;
     padding-left: 40px;
