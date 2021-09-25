@@ -25,7 +25,6 @@ footer {
 .list1 {
     float: left;
     margin: 23px 0px 0px 30px;
-
 }
 
 h1 {
@@ -65,13 +64,13 @@ ul {
 .facebook,
 .youtube {
     display: inline-block;
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin: 10px 0px 20px;
+    padding: 13px 0px 0px 40px;
     width: 120px;
     height: 35px;
     border-radius: 15px;
     border: 1px solid grey;
-    box-shadow: 2px 4px rgb(214, 210, 210);
+    box-shadow: 1px 3px rgb(214, 210, 210);
     color: white;
     font-size: 14pt;
     font-weight: 600;
@@ -79,20 +78,14 @@ ul {
 
 .instagram {
     background-color: #8080ff;
-    padding-top: 13px;
-    padding-left: 40px;
 }
   
 .facebook {
     background-color: #4267b2;
     margin-left: 20px;
-    padding-top: 13px;
-    padding-left: 40px;
 }
   
 .youtube {
     background-color: #ff0000;
     margin-left: 20px;
-    padding-top: 13px;
-    padding-left: 40px;
 }
